@@ -13,6 +13,9 @@ class:
 
 How past experiences influence our design choices, and overcoming the unknown.
 
+---
+![Brief audience interaction](audience_interaction.jpg)
+
 <!-- ---
 
 ### Disclaimer
