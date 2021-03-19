@@ -30,10 +30,6 @@ This is not a talk about thinking outside the box. We already do that. It is jus
     * Overcoming The Unknown
     * Design Choices
 
-___
-## What It's Like To be a Computer: An Interview with GPT-3
-https://www.youtube.com/watch?v=PqbB07n_uQ4&t=1s
-
 ---
 ## What It's Like To be a Computer: An Interview with GPT-3
 https://www.youtube.com/watch?v=PqbB07n_uQ4&t=1s
